@@ -3,7 +3,7 @@
 [END]
 
 [SUBTITLE]
-ここはなに？
+～ここはなに？～
 [END]
 
 [CONTENT]
@@ -11,5 +11,5 @@
 [END]
 
 [CONTENT]
-Newlines\n1\n2\n3\n4\n5
+1.ルール\とりあえずみんな仲良くしてね\n2\n3\n4\n5
 [END]
