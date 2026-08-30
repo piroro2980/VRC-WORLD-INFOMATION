@@ -1,0 +1,15 @@
+[TITLE]
+ぴろろ幼稚園へようこそ！
+[END]
+
+[SUBTITLE]
+ここはなに？
+[END]
+
+[CONTENT]
+このワールドは、フレンドの発言をきっかけに作成したワールドになります。
+[END]
+
+[CONTENT]
+Newlines\n1\n2\n3\n4\n5
+[END]
